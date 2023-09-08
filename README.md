@@ -2,6 +2,7 @@
 
 MyResume Generator using React is a web application that allows users to create and customize their resumes quickly and easily. This project is built with React, providing a user-friendly interface to generate professional resumes.
 
+![Alt Text](screen.png)
 
 ## Features
 
